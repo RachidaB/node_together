@@ -1,0 +1,25 @@
+{
+  "name": "node_together",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RachidaB/node_together.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RachidaB/node_together/issues"
+  },
+  "homepage": "https://github.com/RachidaB/node_together#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0",
+    "motivations": "^1.0.10"
+  }
+}
